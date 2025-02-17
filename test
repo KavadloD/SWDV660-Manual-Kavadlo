@@ -1,0 +1,4 @@
+echo "Test file" > test.txt
+git add test.txt
+git commit -m "Initial commit"
+git push origin main
